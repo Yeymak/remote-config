@@ -1,6 +1,10 @@
 {
 	"releases": [
 		{
+			"version": "1.0.3",
+			"isForced": false
+		},
+		{
 			"version": "1.0.2",
 			"isForced": false
 		},
