@@ -2,7 +2,7 @@
 	"releases": [
 		{
 			"version": "1.0.4",
-			"isForced": true
+			"isForced": false
 		},
 		{
 			"version": "1.0.3",
