@@ -1,20 +1,24 @@
 {
 	"releases": [
 		{
+			"version": "1.0.5",
+			"required": false
+		},
+		{
 			"version": "1.0.4",
-			"isForced": false
+			"required": false
 		},
 		{
 			"version": "1.0.3",
-			"isForced": false
+			"required": false
 		},
 		{
 			"version": "1.0.2",
-			"isForced": false
+			"required": false
 		},
 		{
 			"version": "1.0.1",
-			"isForced": false
+			"required": false
 		}
 	]
 }
