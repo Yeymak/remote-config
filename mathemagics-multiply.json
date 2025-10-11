@@ -1,6 +1,11 @@
 {
 	"releases": [
 		{
+			"version": "1.0.7",
+			"required": false,
+			"recommended": true
+		},
+		{
 			"version": "1.0.6",
 			"required": true
 		},
